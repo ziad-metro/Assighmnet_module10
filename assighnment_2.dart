@@ -94,7 +94,7 @@ class _ContactListScreenState extends State<ContactListScreen> {
             ElevatedButton(
               onPressed: addContact,
               style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.grey[600],
+                backgroundColor: Colors.white,
               ),
               child: const Text("Add"),
             ),
